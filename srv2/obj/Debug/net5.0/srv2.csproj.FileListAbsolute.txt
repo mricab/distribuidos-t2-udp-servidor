@@ -1,0 +1,15 @@
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/bin/Debug/net5.0/srv2.deps.json
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/bin/Debug/net5.0/srv2.runtimeconfig.json
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/bin/Debug/net5.0/srv2.runtimeconfig.dev.json
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/bin/Debug/net5.0/srv2.dll
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/bin/Debug/net5.0/ref/srv2.dll
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/bin/Debug/net5.0/srv2.pdb
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/srv2.csprojAssemblyReference.cache
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/srv2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/srv2.AssemblyInfoInputs.cache
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/srv2.AssemblyInfo.cs
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/srv2.csproj.CoreCompileInputs.cache
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/srv2.dll
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/ref/srv2.dll
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/srv2.pdb
+/Users/marce/Proyectos/Distribuidos/T2 UDP/servidor/srv2/obj/Debug/net5.0/srv2.genruntimeconfig.cache
